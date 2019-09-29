@@ -1,13 +1,16 @@
 <template>
-  <HelloWorld />
+  <div class="home">
+    
+    <WTMHome />
+  </div>
 </template>
 
 <script>
-import HelloWorld from '../components/HelloWorld';
+import WTMHome from '../components/WTMHome';
 
 export default {
   components: {
-    HelloWorld,
+   WTMHome,
   },
 };
 </script>
