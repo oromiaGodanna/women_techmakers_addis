@@ -1,5 +1,7 @@
 # women_techmakers_addis
 
+Official Website of Women Techmakers Addis
+
 ## Project setup
 ```
 npm install
