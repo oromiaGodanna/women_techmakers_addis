@@ -1,6 +1,6 @@
 <template>
-<v-container>
-      <v-layout row wrap>
+<v-container class="px-10 py-10">
+      <v-layout row wrap >  
         <v-flex xs12 sm4 md2 lg2 class="pa-4">
           <v-img
             :src="require('../assets/Images/svg/WTM-women.svg')"

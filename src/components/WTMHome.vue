@@ -1,7 +1,7 @@
 <template>
-    <v-app>
-        <v-content>
-            <h1>This is the home View</h1>
-        </v-content>
-    </v-app>
+  
+    <v-content class="pa-0">
+      <v-img src="../../src/assets/Images/WTMAddis_blue.jpg" alt contain></v-img>
+    </v-content>
+
 </template>
